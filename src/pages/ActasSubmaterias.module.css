@@ -1,0 +1,588 @@
+.background,
+.bg {
+  position: absolute;
+  top: 156px;
+  left: 428px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-thistle-200);
+  width: 1418px;
+  height: 992px;
+  display: none;
+}
+.bg {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--m3-sys-light-on-primary);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 1664px;
+  height: 814.7px;
+}
+.bg1,
+.botonChild,
+.materia,
+.materiaChild {
+  position: absolute;
+  width: 1378px;
+  height: 630.7px;
+}
+.materiaChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  object-fit: cover;
+}
+.bg1,
+.botonChild,
+.materia {
+  top: 520px;
+  left: 366px;
+}
+.bg1,
+.botonChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--m3-sys-light-on-primary);
+  height: 346px;
+}
+.botonChild {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-dodgerblue);
+  width: 140px;
+  height: 40px;
+}
+.generarPdf {
+  position: absolute;
+  top: 9px;
+  left: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 23px;
+}
+.boton {
+  position: absolute;
+  top: 152px;
+  left: 1130px;
+  width: 140px;
+  height: 40px;
+  font-size: var(--font-size-mini);
+  color: var(--m3-sys-light-on-primary);
+}
+.formatoReporte1,
+.inputChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.inputChild {
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 172px;
+  height: 37px;
+}
+.actaSubmateria {
+  position: absolute;
+  top: 9px;
+  left: 10px;
+}
+.materialSymbolskeyboardArroIcon {
+  position: absolute;
+  height: 64.86%;
+  width: 13.95%;
+  top: 24.32%;
+  right: 4.07%;
+  bottom: 10.81%;
+  left: 81.98%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.input {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  width: 172px;
+  height: 37px;
+  font-size: var(--font-size-smi);
+}
+.formatoReporte,
+.inputItem {
+  position: absolute;
+  top: 119px;
+  left: 618px;
+  width: 172px;
+  height: 73px;
+}
+.inputItem {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 203px;
+  height: 37px;
+}
+.materialSymbolskeyboardArroIcon1 {
+  position: absolute;
+  height: 64.86%;
+  width: 11.82%;
+  top: 24.32%;
+  right: 3.45%;
+  bottom: 10.81%;
+  left: 84.73%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.input1 {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  width: 203px;
+  height: 37px;
+  font-size: var(--font-size-smi);
+}
+.inputInner,
+.materia1 {
+  position: absolute;
+  top: 119px;
+  left: 329px;
+  width: 203px;
+  height: 73px;
+}
+.inputInner {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 243px;
+  height: 37px;
+}
+.materialSymbolskeyboardArroIcon2 {
+  position: absolute;
+  height: 64.86%;
+  width: 9.88%;
+  top: 24.32%;
+  right: 2.88%;
+  bottom: 10.81%;
+  left: 87.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.input2 {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  width: 243px;
+  height: 37px;
+  font-size: var(--font-size-smi);
+}
+.planDeEstudios,
+.rectangleDiv {
+  position: absolute;
+  top: 122px;
+  left: 0;
+  width: 243px;
+  height: 70px;
+}
+.rectangleDiv {
+  top: 0;
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 74px;
+  height: 37px;
+}
+.div {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+.materialSymbolskeyboardArroIcon3 {
+  position: absolute;
+  height: 64.86%;
+  width: 32.43%;
+  top: 24.32%;
+  right: 6.76%;
+  bottom: 10.81%;
+  left: 60.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.input3 {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  width: 74px;
+  height: 37px;
+  font-size: var(--font-size-2xs);
+}
+.calendarioChild,
+.periodo {
+  position: absolute;
+  top: 3px;
+  left: 1001px;
+  width: 74px;
+  height: 70px;
+}
+.calendarioChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 237px;
+  height: 37px;
+}
+.calendario,
+.ofung1gzJhonnyRafael {
+  position: absolute;
+  top: 9px;
+  left: 11px;
+}
+.calendario {
+  top: 36px;
+  left: 0;
+  width: 237px;
+  height: 37px;
+  font-size: var(--font-size-smi);
+  color: var(--color-darkslateblue-100);
+}
+.calendarioItem,
+.nombre {
+  position: absolute;
+  top: 0;
+  left: 666px;
+  width: 237px;
+  height: 73px;
+}
+.calendarioItem {
+  left: 0;
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 100px;
+  height: 37px;
+}
+.calendario1,
+.div1 {
+  position: absolute;
+  top: 9px;
+  left: 14px;
+}
+.calendario1 {
+  top: 36px;
+  left: 0;
+  width: 100px;
+  height: 37px;
+  font-size: var(--font-size-smi);
+}
+.idProfesor,
+.inputChild1 {
+  position: absolute;
+  top: 0;
+  left: 468px;
+  width: 100px;
+  height: 73px;
+}
+.inputChild1 {
+  left: 0;
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 170px;
+  height: 37px;
+}
+.materialSymbolskeyboardArroIcon4 {
+  position: absolute;
+  height: 64.86%;
+  width: 14.12%;
+  top: 24.32%;
+  right: 1.18%;
+  bottom: 10.81%;
+  left: 84.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.input4,
+.nivel {
+  position: absolute;
+  width: 170px;
+}
+.input4 {
+  top: 34px;
+  left: 0;
+  height: 37px;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-400);
+}
+.nivel {
+  top: 2px;
+  left: 200px;
+  height: 71px;
+  color: var(--color-darkslateblue-100);
+}
+.inputChild2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 102px;
+  height: 37px;
+}
+.materialSymbolskeyboardArroIcon5 {
+  position: absolute;
+  height: 64.86%;
+  width: 23.53%;
+  top: 18.92%;
+  right: 6.86%;
+  bottom: 16.22%;
+  left: 69.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ciclo,
+.input5 {
+  position: absolute;
+  left: 0;
+  width: 102px;
+}
+.input5 {
+  top: 34px;
+  height: 37px;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-400);
+}
+.ciclo {
+  top: 4px;
+  height: 71px;
+  color: var(--color-darkslateblue-100);
+}
+.consulta,
+.titleChild {
+  position: absolute;
+  top: 115px;
+  left: 43px;
+  width: 1270px;
+  height: 192px;
+}
+.titleChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background-color: var(--color-cornflowerblue);
+  width: 1378px;
+  height: 80px;
+}
+.reporteActasSubmaterias {
+  position: absolute;
+  top: 19px;
+  left: 43px;
+}
+.bgParent,
+.title {
+  position: absolute;
+  width: 1378px;
+}
+.title {
+  top: 3px;
+  left: 0;
+  height: 80px;
+  font-size: 28px;
+  color: var(--m3-sys-light-on-primary);
+}
+.bgParent {
+  top: 118px;
+  left: 366px;
+  height: 346px;
+}
+.logo1Icon {
+  width: 61px;
+  position: relative;
+  height: 54px;
+  object-fit: cover;
+}
+.iconMore {
+  width: 16px;
+  position: relative;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.divider,
+.profil {
+  align-self: stretch;
+}
+.profil {
+  border-radius: var(--br-base) var(--br-base) 0 0;
+  background-color: var(--color-gray-100);
+  height: 97px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-5xl);
+  box-sizing: border-box;
+  z-index: 0;
+}
+.divider {
+  position: relative;
+  background-color: var(--color-gainsboro-200);
+  height: 1px;
+  z-index: 1;
+}
+.primaryIcon {
+  width: 18px;
+  position: relative;
+  height: 16px;
+}
+.label {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 20px;
+  font-weight: 500;
+}
+.link {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-xs);
+  gap: var(--gap-xs);
+}
+.fileCircleCheckIcon,
+.fileLinesIcon,
+.graduationCapIcon,
+.squareRssIcon {
+  width: 20px;
+  position: relative;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.fileCircleCheckIcon,
+.fileLinesIcon,
+.squareRssIcon {
+  width: 18px;
+}
+.fileLinesIcon,
+.squareRssIcon {
+  width: 12px;
+}
+.squareRssIcon {
+  width: 14px;
+}
+.navigation {
+  align-self: stretch;
+  height: 677px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xl) var(--padding-5xl) 0;
+  box-sizing: border-box;
+  gap: var(--gap-5xs);
+  z-index: 2;
+}
+.divider1 {
+  align-self: stretch;
+  position: relative;
+  background-color: var(--color-gainsboro-200);
+  height: 1px;
+  z-index: 3;
+}
+.overline {
+  position: relative;
+  letter-spacing: 0.4px;
+  line-height: 12px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.title1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs);
+  font-size: var(--font-size-xs);
+  font-family: var(--text-text-semi-bold-1);
+}
+.iconBell {
+  width: 20px;
+  position: relative;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.button,
+.navigation1,
+.sidebarOpen {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.navigation1 {
+  align-self: stretch;
+  height: 385px;
+  flex-direction: column;
+  padding: var(--padding-5xl);
+  box-sizing: border-box;
+  gap: var(--gap-5xs);
+  z-index: 4;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray);
+  font-family: var(--font-inter);
+}
+.button,
+.sidebarOpen {
+  position: absolute;
+  background-color: var(--m3-sys-light-on-primary);
+}
+.button {
+  margin: 0 !important;
+  top: 59px;
+  right: -14px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-gray-500);
+  flex-direction: row;
+  padding: var(--padding-7xs);
+  z-index: 5;
+}
+.sidebarOpen {
+  height: 100.17%;
+  width: 13.44%;
+  top: -0.08%;
+  right: 86.61%;
+  bottom: -0.08%;
+  left: -0.05%;
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  flex-direction: column;
+  font-size: var(--font-size-smi);
+}
+.actasSubmaterias {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-ghostwhite);
+  height: 1182px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--text-text-semi-bold-1-size);
+  color: var(--color-gray-400);
+  font-family: var(--text-text-semi-bold-1);
+}
